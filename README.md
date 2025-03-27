@@ -1,4 +1,4 @@
-## Hi my name is Thabani Shabalall
+## Hi my name is Thabani Shabalala
 
 🧠 I am a computer scince student at Varsity College Durban North<br/>
 👨🏽‍🎓 Gradute of a Bachalor Degree in Computer Applications Development<br/>
