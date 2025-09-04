@@ -1,6 +1,6 @@
 ## Hi my name is Thabani Shabalala
 
-🧠 I am a computer scince gradute at Varsity College Durban North<br/>
+🧠 I am a computer science gradute at Varsity College Durban North<br/>
 👨🏽‍🎓 Gradute of a Bachalor Degree in Computer Applications Development<br/>
 🧠 Currently doing my Postgrade Diploma in Data Analytics<br/>
 💻 I do web apps and andriod apps<br/>
